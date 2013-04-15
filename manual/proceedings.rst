@@ -26,7 +26,7 @@ Most of the failings above can be attributed to two factors:
 To address these issues, we propose the following light-weight process:
 
 1. Authors who wish to participate in the proceedings submit a paper 4 weeks before the conference.
-2. To each pull request, one or more reviewers are assigned.
+2. To each pull request, one or more reviewers are assigned, most likely the same members from the programme committee that reviewed the paper.
 3. During the next 3 weeks, reviewers comment on papers.  In response, authors update their pull request to address the comments.
 4. Once a reviewer is satisfied that a paper can be published, he signs off on it (via a comment on the PR).
 5. The paper is merged by the editors into the proceedings.
